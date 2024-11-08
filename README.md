@@ -1,6 +1,7 @@
 # scoop-bucket
 
-[![Tests](https://github.com/<username>/<bucketname>/actions/workflows/ci.yml/badge.svg)](https://github.com/<username>/<bucketname>/actions/workflows/ci.yml) [![Excavator](https://github.com/<username>/<bucketname>/actions/workflows/excavator.yml/badge.svg)](https://github.com/<username>/<bucketname>/actions/workflows/excavator.yml)
+[![Tests](https://github.com/pbar1/scoop-bucket/actions/workflows/ci.yml/badge.svg)](https://github.com/pbar1/scoop-bucket/actions/workflows/ci.yml)
+[![Excavator](https://github.com/pbar1/scoop-bucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/pbar1/scoop-bucket/actions/workflows/excavator.yml)
 
 My [Scoop](https://scoop.sh) bucket.
 
