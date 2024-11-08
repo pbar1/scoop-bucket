@@ -1,0 +1,21 @@
+{
+    "version": "1.0.10-rc3",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/pbar1/mfaws/releases/download/1.0.10-rc3/mfaws_Windows_x86_64.zip",
+            "bin": [
+                "mfaws.exe"
+            ],
+            "hash": "a5d1b696a5438ed776ba23295ccb453a32e2af760a4523f232aff8ed075767ab"
+        },
+        "arm64": {
+            "url": "https://github.com/pbar1/mfaws/releases/download/1.0.10-rc3/mfaws_Windows_arm64.zip",
+            "bin": [
+                "mfaws.exe"
+            ],
+            "hash": "2176be95e13fdf935c5d7481032e2afbff6ce87c2ba3b568148452762f9bbc22"
+        }
+    },
+    "homepage": "https://github.com/pbar1/mfaws",
+    "description": "AWS multi-factor authentication manager"
+}
