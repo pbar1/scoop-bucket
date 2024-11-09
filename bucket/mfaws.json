@@ -6,14 +6,14 @@
             "bin": [
                 "mfaws.exe"
             ],
-            "hash": "a5d1b696a5438ed776ba23295ccb453a32e2af760a4523f232aff8ed075767ab"
+            "hash": "271c81b8b70b1ee8f2345e198ee499dc69a0a7f030cb1c5a182314a7c40a7e9e"
         },
         "arm64": {
             "url": "https://github.com/pbar1/mfaws/releases/download/1.0.10-rc3/mfaws_Windows_arm64.zip",
             "bin": [
                 "mfaws.exe"
             ],
-            "hash": "2176be95e13fdf935c5d7481032e2afbff6ce87c2ba3b568148452762f9bbc22"
+            "hash": "b48915f5b63e3360a785e52ff69f01c65ad946fc1d8909fc62f24886ebfba784"
         }
     },
     "homepage": "https://github.com/pbar1/mfaws",
