@@ -1,19 +1,19 @@
 {
-    "version": "1.0.10-rc4",
+    "version": "1.0.10",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/pbar1/mfaws/releases/download/1.0.10-rc4/mfaws_Windows_x86_64.zip",
+            "url": "https://github.com/pbar1/mfaws/releases/download/v1.0.10/mfaws_Windows_x86_64.zip",
             "bin": [
                 "mfaws.exe"
             ],
-            "hash": "6e97aed7c88cb6b1ca67549b88cfaa4a61308dea88732211d67b2c844836ee95"
+            "hash": "c19bcd8c59071e4ec964b6d21dbb97d5b29ef2e289de7b7407a620119d229867"
         },
         "arm64": {
-            "url": "https://github.com/pbar1/mfaws/releases/download/1.0.10-rc4/mfaws_Windows_arm64.zip",
+            "url": "https://github.com/pbar1/mfaws/releases/download/v1.0.10/mfaws_Windows_arm64.zip",
             "bin": [
                 "mfaws.exe"
             ],
-            "hash": "a1c08698b453234f39724651d4ec82d0d53da1f72bed6e3826ea03a7696b4c94"
+            "hash": "0ac80b591fa51d022502207f9335127ce67229e73381c50d53ad35773578b62b"
         }
     },
     "homepage": "https://github.com/pbar1/mfaws",
